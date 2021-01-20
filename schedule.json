@@ -1,0 +1,60 @@
+{
+    "schedule": {
+        "Monday": {
+            "morning": {
+                "kathismata": [4, 5]
+            },
+            "evening": {
+                "kathismata": [6]
+            }
+        },
+        "Tuesday": {
+            "morning": {
+                "kathismata": [7, 8]
+            },
+            "evening": {
+                "kathismata": [9]
+            }
+        },
+        "Wednessday": {
+            "morning": {
+                "kathismata": [10, 11]
+            },
+            "evening": {
+                "kathismata": [12]
+            }
+        },
+        "Thursday": {
+            "morning": {
+                "kathismata": [13, 14]
+            },
+            "evening": {
+                "kathismata": [15]
+            }
+        },
+        "Friday": {
+            "morning": {
+                "kathismata": [19, 20]
+            },
+            "evening": {
+                "kathismata": [18]
+            }
+        },
+        "Saturday": {
+            "morning": {
+                "kathismata": [16, 17]
+            },
+            "evening": {
+                "kathismata": [1]
+            }
+        },
+        "Sunday": {
+            "morning": {
+                "kathismata": [2, 3]
+            },
+            "evening": {
+                "kathismata": []
+            }
+        }
+    }
+}
